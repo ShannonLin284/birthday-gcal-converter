@@ -8,7 +8,7 @@ from google.auth.transport.requests import Request
 
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 
-# CONFIGURATION (edit as needed)
+# config (edit as needed)
 TARGET_CALENDAR_NAME = "Cornell Assistive Technologies Subteam Calendar"
 CSV_FILE = "birthdays.csv"
 
